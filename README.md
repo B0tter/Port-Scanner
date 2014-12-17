@@ -1,6 +1,6 @@
 Port-Scanner
 ---
-![Screenshot] (http://s21.postimg.org/4m2m3airr/Untitled.png)
+![Screenshot] (https://raw.githubusercontent.com/B0tter/Port-Scanner/master/Screenshot%20from%202014-12-17%2003_57_27.png)
 ---
 Just a very simple and basic port scanner 
 nothing special been done hundreds of times already
